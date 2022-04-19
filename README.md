@@ -1,4 +1,4 @@
-# Data-Science-Study-Material
+# Data Science Study Material
 
 ## Pandas
 Pandas vs SQL
