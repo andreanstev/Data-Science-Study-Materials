@@ -2,6 +2,7 @@
 
 ## Pandas
 Pandas vs SQL
+
 https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html
 
 ## Machine Learning
