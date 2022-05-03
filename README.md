@@ -6,11 +6,11 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparis
 
 ## Machine Learning
 ### Fundamental
-https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471 
 https://developers.google.com/machine-learning/crash-course
 
 ## Statistics
-https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7
+https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7 
 https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271
 
 ## Programming
