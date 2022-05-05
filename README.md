@@ -11,6 +11,9 @@ https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 
 https://developers.google.com/machine-learning/crash-course
 
+### Activation Functions
+https://mlfromscratch.com/activation-functions-explained/#elu
+
 ## Statistics
 https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7
 
