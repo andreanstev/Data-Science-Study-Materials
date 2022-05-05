@@ -23,11 +23,12 @@ https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for
 ### Data Structures & Algorithms
 https://jovian.ai/learn/data-structures-and-algorithms-in-python
 
+
+### Data Engineering
+https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#
+
 ## GCP
 ### Fundamental
 Cloud Digital Leader
 
 https://www.cloudskillsboost.google/paths/9
-
-### Data Engineering
-https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#
