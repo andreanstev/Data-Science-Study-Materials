@@ -20,6 +20,9 @@ https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-an
 https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271
 
 ## Programming
+### Basic Python
+https://www.kaggle.com/learn/python
+
 ### Data Structures & Algorithms
 https://jovian.ai/learn/data-structures-and-algorithms-in-python
 
