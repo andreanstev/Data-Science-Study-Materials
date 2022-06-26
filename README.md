@@ -14,6 +14,12 @@ https://developers.google.com/machine-learning/crash-course
 ### Activation Functions
 https://mlfromscratch.com/activation-functions-explained/#elu
 
+### ML Pipeline
+https://towardsdatascience.com/optimising-your-input-pipeline-performance-with-tf-data-part-1-32e52a30cac4
+
+### NLP
+https://www.tensorflow.org/text/guide/tf_text_intro
+
 ## Statistics
 https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7
 
