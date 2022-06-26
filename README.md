@@ -17,9 +17,13 @@ https://www.kaggle.com/learn/intro-to-machine-learning
 https://mlfromscratch.com/activation-functions-explained/#elu
 
 ### ML Pipeline
+tensorflow-data
+
 https://towardsdatascience.com/optimising-your-input-pipeline-performance-with-tf-data-part-1-32e52a30cac4
 
 ### NLP
+tensorflow-text
+
 https://www.tensorflow.org/text/guide/tf_text_intro
 
 ## Statistics
@@ -46,3 +50,8 @@ https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5Cet
 Cloud Digital Leader
 
 https://www.cloudskillsboost.google/paths/9
+
+## Datasets
+Tensorflow Datasets
+
+https://www.tensorflow.org/datasets/catalog/overview#all_datasets
