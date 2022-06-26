@@ -11,6 +11,8 @@ https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 
 https://developers.google.com/machine-learning/crash-course
 
+https://www.kaggle.com/learn/intro-to-machine-learning
+
 ### Activation Functions
 https://mlfromscratch.com/activation-functions-explained/#elu
 
