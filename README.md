@@ -48,6 +48,8 @@ https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5Cet
 ### Hadoop
 https://www.edureka.co/blog/5-reasons-when-to-use-and-not-to-use-hadoop/
 
+https://www.projectpro.io/article/hadoop-ecosystem-components-and-its-architecture/114
+
 ### Spark
 
 ## GCP
