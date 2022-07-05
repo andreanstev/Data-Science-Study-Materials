@@ -13,6 +13,11 @@ https://developers.google.com/machine-learning/crash-course
 
 https://www.kaggle.com/learn/intro-to-machine-learning
 
+### Data Preparations
+Handle Imbalanced Data
+
+https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
+
 ### Activation Functions
 https://mlfromscratch.com/activation-functions-explained/#elu
 
