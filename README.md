@@ -19,7 +19,7 @@ Handle Imbalanced Data
 https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
 
 ### Activation Functions
-https://mlfromscratch.com/activation-functions-explained/#elu
+https://mlfromscratch.com/activation-functions-explained/
 
 ### ML Pipeline
 tensorflow-data
