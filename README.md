@@ -26,6 +26,9 @@ tensorflow-data
 
 https://towardsdatascience.com/optimising-your-input-pipeline-performance-with-tf-data-part-1-32e52a30cac4
 
+### MLOps
+https://blog.tensorflow.org/2021/12/continuous-adaptation-for-machine.html
+
 ### NLP
 tensorflow-text
 
