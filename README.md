@@ -49,7 +49,6 @@ https://towardsdatascience.com/15-things-you-should-know-about-dictionaries-in-p
 ### Data Structures & Algorithms
 https://jovian.ai/learn/data-structures-and-algorithms-in-python
 
-
 ## Data Engineering
 https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#
 
@@ -70,3 +69,10 @@ https://www.cloudskillsboost.google/paths/9
 Tensorflow Datasets
 
 https://www.tensorflow.org/datasets/catalog/overview#all_datasets
+
+## Others
+### regex
+https://regex101.com/
+
+### cron
+https://crontab.guru/
