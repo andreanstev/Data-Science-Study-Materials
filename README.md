@@ -70,6 +70,22 @@ Tensorflow Datasets
 
 https://www.tensorflow.org/datasets/catalog/overview#all_datasets
 
+scikit-learn Datasets
+
+https://scikit-learn.org/stable/datasets.html
+
+Pytorch Image Datasets
+
+https://pytorch.org/vision/stable/datasets.html
+
+Pytorch Text Datasets
+
+https://pytorch.org/text/stable/datasets.html
+
+Pytorch Audio Datasets
+
+https://pytorch.org/audio/stable/datasets.html
+
 ## Others
 ### regex
 https://regex101.com/
