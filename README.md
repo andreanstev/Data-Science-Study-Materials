@@ -1,6 +1,9 @@
 # Data Science Study Materials
 
 ## Pandas
+### Fundamental
+https://www.kaggle.com/learn/pandas
+
 Pandas vs SQL
 
 https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html
@@ -13,10 +16,28 @@ https://developers.google.com/machine-learning/crash-course
 
 https://www.kaggle.com/learn/intro-to-machine-learning
 
+https://www.kaggle.com/learn/intermediate-machine-learning
+
+https://www.kaggle.com/learn/intro-to-deep-learning
+
 ### Data Preparations
 Handle Imbalanced Data
 
 https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
+
+### Feature Engineering
+https://www.kaggle.com/learn/feature-engineering
+
+### Computer Vision
+https://www.kaggle.com/learn/computer-vision
+
+### Time Series
+https://www.kaggle.com/learn/time-series
+
+### NLP
+tensorflow-text
+
+https://www.tensorflow.org/text/guide/tf_text_intro
 
 ### Activation Functions
 https://mlfromscratch.com/activation-functions-explained/
@@ -28,11 +49,6 @@ https://towardsdatascience.com/optimising-your-input-pipeline-performance-with-t
 
 ### MLOps
 https://blog.tensorflow.org/2021/12/continuous-adaptation-for-machine.html
-
-### NLP
-tensorflow-text
-
-https://www.tensorflow.org/text/guide/tf_text_intro
 
 ## Statistics
 https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7
