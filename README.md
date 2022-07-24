@@ -28,6 +28,9 @@ https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-d
 ### Feature Engineering
 https://www.kaggle.com/learn/feature-engineering
 
+### Ensemble Learning
+https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/
+
 ### Computer Vision
 https://www.kaggle.com/learn/computer-vision
 
