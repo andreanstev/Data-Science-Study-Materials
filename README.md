@@ -21,9 +21,13 @@ https://www.kaggle.com/learn/intermediate-machine-learning
 https://www.kaggle.com/learn/intro-to-deep-learning
 
 ### Data Preparations
-Handle Imbalanced Data
+Imbalanced Data
 
 https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
+
+Outliers
+
+https://humansofdata.atlan.com/2018/03/when-delete-outliers-dataset/
 
 ### Feature Engineering
 https://www.kaggle.com/learn/feature-engineering
