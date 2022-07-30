@@ -112,6 +112,9 @@ Pytorch Audio Datasets
 
 https://pytorch.org/audio/stable/datasets.html
 
+UCI ML Repository
+https://archive.ics.uci.edu/ml/index.php
+
 ## Others
 ### regex
 https://regex101.com/
