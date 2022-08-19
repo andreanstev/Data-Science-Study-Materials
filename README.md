@@ -48,9 +48,11 @@ https://www.tensorflow.org/text/guide/tf_text_intro
 
 ### Reinforcement Learning
 TF Agents
+
 https://www.tensorflow.org/agents
 
 Replay Memory
+
 https://jacobbuckman.com/2021-02-13-how-to-think-about-replay-memory
 
 ### Activation Functions
