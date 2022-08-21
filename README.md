@@ -43,6 +43,8 @@ https://www.kaggle.com/learn/computer-vision
 ### Time Series
 https://www.kaggle.com/learn/time-series
 
+https://shivapriya-katta.medium.com/time-series-forecasting-using-conv1d-lstm-multiple-timesteps-into-future-acc684dcaaa
+
 ### NLP
 tensorflow-text
 
