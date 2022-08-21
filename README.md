@@ -35,6 +35,8 @@ https://www.kaggle.com/learn/feature-engineering
 ### Ensemble Learning
 https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/
 
+https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349
+
 ### Computer Vision
 https://www.kaggle.com/learn/computer-vision
 
