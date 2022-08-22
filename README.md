@@ -59,6 +59,8 @@ Replay Memory
 
 https://jacobbuckman.com/2021-02-13-how-to-think-about-replay-memory
 
+https://kowshikchilamkurthy.medium.com/off-policy-vs-on-policy-vs-offline-reinforcement-learning-demystified-f7f87e275b48
+
 ### Activation Functions
 https://mlfromscratch.com/activation-functions-explained/
 
@@ -77,6 +79,8 @@ https://keras.io/guides/functional_api/
 https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7
 
 https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271
+
+https://medium.com/@laranguyen/on-statistical-biases-and-biases-in-machine-learning-5ba4e8cfaf60
 
 ## Python Programming
 ### Basic
