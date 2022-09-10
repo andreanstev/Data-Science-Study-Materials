@@ -32,6 +32,11 @@ https://humansofdata.atlan.com/2018/03/when-delete-outliers-dataset/
 ### Feature Engineering
 https://www.kaggle.com/learn/feature-engineering
 
+### Dimensionality Reduction
+Linear Discriminant Analysis (LDA)
+
+https://sebastianraschka.com/Articles/2014_python_lda.html
+
 ### Ensemble Learning
 https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/
 
