@@ -12,7 +12,7 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparis
 ### Fundamental
 https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 
-https://developers.google.com/machine-learning/crash-course
+https://developers.google.com/machine-learning
 
 https://www.kaggle.com/learn/intro-to-machine-learning
 
