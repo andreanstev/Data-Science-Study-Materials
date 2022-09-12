@@ -25,6 +25,8 @@ Imbalanced Data
 
 https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
 
+https://medium.com/x8-the-ai-community/solving-class-imbalance-problem-in-cnn-9c7a5231c478
+
 Outliers
 
 https://humansofdata.atlan.com/2018/03/when-delete-outliers-dataset/
