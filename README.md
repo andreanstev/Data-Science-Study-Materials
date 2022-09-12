@@ -1,5 +1,9 @@
 # Data Science Study Materials
 
+## Data Science
+### Methodologies
+https://towardsdatascience.com/data-science-methodology-101-ce9f0d660336
+
 ## Pandas
 ### Fundamental
 https://www.kaggle.com/learn/pandas
