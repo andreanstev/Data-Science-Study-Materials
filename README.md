@@ -93,6 +93,8 @@ https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for
 
 https://medium.com/@laranguyen/on-statistical-biases-and-biases-in-machine-learning-5ba4e8cfaf60
 
+https://towardsdatascience.com/bootstrapping-statistics-what-it-is-and-why-its-used-e2fa29577307
+
 ## Python Programming
 ### Basic
 https://www.kaggle.com/learn/python
