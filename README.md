@@ -95,6 +95,8 @@ https://medium.com/@laranguyen/on-statistical-biases-and-biases-in-machine-learn
 
 https://towardsdatascience.com/bootstrapping-statistics-what-it-is-and-why-its-used-e2fa29577307
 
+https://www.lancaster.ac.uk/stor-i-student-sites/jack-trainer/bootstrapping-in-statistics/
+
 ## Python Programming
 ### Basic
 https://www.kaggle.com/learn/python
