@@ -126,6 +126,8 @@ https://www.cloudskillsboost.google/paths/9
 ### Cheat Sheet
 https://thecloudgirl.dev/sketchnote.html
 
+https://googlecloudcheatsheet.withgoogle.com
+
 ## Datasets
 Tensorflow Datasets
 
