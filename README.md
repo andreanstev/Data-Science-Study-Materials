@@ -123,6 +123,9 @@ Cloud Digital Leader
 
 https://www.cloudskillsboost.google/paths/9
 
+### Cheat Sheet
+https://thecloudgirl.dev/sketchnote.html
+
 ## Datasets
 Tensorflow Datasets
 
