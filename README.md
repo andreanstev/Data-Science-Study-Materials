@@ -7,6 +7,9 @@ https://towardsdatascience.com/data-science-methodology-101-ce9f0d660336
 ### Big Data
 https://medium.com/analytics-vidhya/the-5-vs-of-big-data-2758bfcc51d
 
+## Data Visualization
+https://www.kaggle.com/learn/data-visualization
+
 ## Pandas
 ### Fundamental
 https://www.kaggle.com/learn/pandas
@@ -14,6 +17,8 @@ https://www.kaggle.com/learn/pandas
 Pandas vs SQL
 
 https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html
+
+https://www.kaggle.com/learn/pandas
 
 ## Machine Learning
 ### Fundamental
