@@ -10,6 +10,8 @@ https://medium.com/analytics-vidhya/the-5-vs-of-big-data-2758bfcc51d
 ## Data Visualization
 https://www.kaggle.com/learn/data-visualization
 
+https://www.kaggle.com/learn/geospatial-analysis
+
 ## Pandas
 ### Fundamental
 https://www.kaggle.com/learn/pandas
@@ -33,6 +35,10 @@ https://www.kaggle.com/learn/intermediate-machine-learning
 https://www.kaggle.com/learn/intro-to-deep-learning
 
 ### Data Preparations
+Data Cleaning
+
+https://www.kaggle.com/learn/data-cleaning
+
 Imbalanced Data
 
 https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
