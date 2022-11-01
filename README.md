@@ -57,6 +57,11 @@ Linear Discriminant Analysis (LDA)
 
 https://sebastianraschka.com/Articles/2014_python_lda.html
 
+### Model Evaluation
+https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/
+
+https://machinelearningmastery.com/evaluate-skill-deep-learning-models/
+
 ### Ensemble Learning
 https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/
 
