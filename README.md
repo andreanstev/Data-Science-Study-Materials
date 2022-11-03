@@ -57,6 +57,9 @@ Linear Discriminant Analysis (LDA)
 
 https://sebastianraschka.com/Articles/2014_python_lda.html
 
+### Model Architecture
+https://www.tensorflow.org/neural_structured_learning
+
 ### Model Evaluation
 https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/
 
