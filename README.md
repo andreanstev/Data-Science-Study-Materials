@@ -105,8 +105,10 @@ https://towardsdatascience.com/optimising-your-input-pipeline-performance-with-t
 ### MLOps
 https://blog.tensorflow.org/2021/12/continuous-adaptation-for-machine.html
 
-### Tensorflow
+### Keras/Tensorflow
 https://keras.io/guides/functional_api/
+
+https://www.tensorflow.org/api_docs/python/tf/keras/initializers
 
 ## Statistics
 https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7
