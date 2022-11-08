@@ -83,6 +83,17 @@ tensorflow-text
 
 https://www.tensorflow.org/text/guide/tf_text_intro
 
+Text Classification
+
+https://developers.google.com/machine-learning/guides/text-classification/
+
+### Video
+Video Classification with TensorFlow
+
+https://keras.io/examples/vision/video_classification/
+
+https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5
+
 ### Reinforcement Learning
 TF Agents
 
