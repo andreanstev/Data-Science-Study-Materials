@@ -79,6 +79,10 @@ https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349
 ### Computer Vision
 https://www.kaggle.com/learn/computer-vision
 
+Object Detection
+
+https://viso.ai/deep-learning/yolov7-guide/
+
 ### Time Series
 https://www.kaggle.com/learn/time-series
 
