@@ -45,6 +45,10 @@ https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-d
 
 https://medium.com/x8-the-ai-community/solving-class-imbalance-problem-in-cnn-9c7a5231c478
 
+https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/
+
+https://towardsdatascience.com/imbalanced-classification-in-python-smote-enn-method-db5db06b8d50
+
 Outliers
 
 https://humansofdata.atlan.com/2018/03/when-delete-outliers-dataset/
