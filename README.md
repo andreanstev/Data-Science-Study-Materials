@@ -118,6 +118,8 @@ https://towardsdatascience.com/optimising-your-input-pipeline-performance-with-t
 ### MLOps
 https://blog.tensorflow.org/2021/12/continuous-adaptation-for-machine.html
 
+https://towardsdatascience.com/design-patterns-in-machine-learning-for-mlops-a3f63f745ce4
+
 ### Keras/Tensorflow
 https://keras.io/guides/functional_api/
 
