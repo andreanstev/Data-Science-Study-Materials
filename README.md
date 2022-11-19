@@ -83,6 +83,8 @@ Object Detection
 
 https://viso.ai/deep-learning/yolov7-guide/
 
+https://towardsdatascience.com/neural-networks-intuitions-3-focal-loss-for-dense-object-detection-paper-explanation-61bc0205114e
+
 ### Time Series
 https://www.kaggle.com/learn/time-series
 
