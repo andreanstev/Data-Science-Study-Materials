@@ -91,13 +91,16 @@ https://www.kaggle.com/learn/time-series
 https://shivapriya-katta.medium.com/time-series-forecasting-using-conv1d-lstm-multiple-timesteps-into-future-acc684dcaaa
 
 ### NLP
-tensorflow-text
-
-https://www.tensorflow.org/text/guide/tf_text_intro
+Pre-training
+https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 
 Text Classification
 
 https://developers.google.com/machine-learning/guides/text-classification/
+
+tensorflow-text
+
+https://www.tensorflow.org/text/guide/tf_text_intro
 
 ### Video
 Video Classification with TensorFlow
