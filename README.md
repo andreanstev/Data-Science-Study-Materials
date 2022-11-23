@@ -56,6 +56,8 @@ https://humansofdata.atlan.com/2018/03/when-delete-outliers-dataset/
 ### Feature Engineering
 https://www.kaggle.com/learn/feature-engineering
 
+https://neptune.ai/blog/feature-engineering-tools
+
 ### Dimensionality Reduction
 Linear Discriminant Analysis (LDA)
 
@@ -132,6 +134,10 @@ https://towardsdatascience.com/optimising-your-input-pipeline-performance-with-t
 https://blog.tensorflow.org/2021/12/continuous-adaptation-for-machine.html
 
 https://towardsdatascience.com/design-patterns-in-machine-learning-for-mlops-a3f63f745ce4
+
+Metadata Store
+
+https://neptune.ai/blog/ml-metadata-store
 
 ### Keras/Tensorflow
 https://keras.io/guides/functional_api/
