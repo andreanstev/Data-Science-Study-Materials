@@ -135,6 +135,8 @@ https://blog.tensorflow.org/2021/12/continuous-adaptation-for-machine.html
 
 https://towardsdatascience.com/design-patterns-in-machine-learning-for-mlops-a3f63f745ce4
 
+https://neptune.ai/blog/mlops
+
 Metadata Store
 
 https://neptune.ai/blog/ml-metadata-store
