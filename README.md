@@ -144,6 +144,8 @@ Metadata Store
 
 https://neptune.ai/blog/ml-metadata-store
 
+https://www.tensorflow.org/tfx/guide/mlmd
+
 ### Keras/Tensorflow
 https://keras.io/guides/functional_api/
 
