@@ -7,10 +7,13 @@ https://towardsdatascience.com/data-science-methodology-101-ce9f0d660336
 ### Big Data
 https://medium.com/analytics-vidhya/the-5-vs-of-big-data-2758bfcc51d
 
-## Data Visualization
+### Data Visualization
 https://www.kaggle.com/learn/data-visualization
 
 https://www.kaggle.com/learn/geospatial-analysis
+
+### Data Ethics
+https://ethics.fast.ai/
 
 ## Pandas
 ### Fundamental
