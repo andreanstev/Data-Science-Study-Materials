@@ -140,6 +140,8 @@ https://towardsdatascience.com/design-patterns-in-machine-learning-for-mlops-a3f
 
 https://neptune.ai/blog/mlops
 
+https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
+
 Metadata Store
 
 https://neptune.ai/blog/ml-metadata-store
