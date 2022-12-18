@@ -81,10 +81,6 @@ https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-netwo
 
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
-Autoencoder
-
-https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras/
-
 ### Model Evaluation
 https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/
 
@@ -127,6 +123,11 @@ Video Classification with TensorFlow
 https://keras.io/examples/vision/video_classification/
 
 https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5
+
+### Generative
+Autoencoder
+
+https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras/
 
 ### Reinforcement Learning
 TF Agents
