@@ -70,12 +70,18 @@ https://sebastianraschka.com/Articles/2014_python_lda.html
 https://www.tensorflow.org/neural_structured_learning
 
 Convolutional Network
+
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
 
 Sequential  Network
+
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+Autoencoder
+
+https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras/
 
 ### Model Evaluation
 https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/
