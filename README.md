@@ -164,6 +164,8 @@ https://neptune.ai/blog/ml-metadata-store
 https://www.tensorflow.org/tfx/guide/mlmd
 
 ### Keras/Tensorflow
+https://www.tensorflow.org/guide/basics
+
 https://keras.io/guides/functional_api/
 
 https://www.tensorflow.org/api_docs/python/tf/keras/initializers
