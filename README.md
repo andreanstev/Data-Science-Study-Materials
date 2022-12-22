@@ -69,6 +69,10 @@ https://sebastianraschka.com/Articles/2014_python_lda.html
 ### Model Architecture
 https://www.tensorflow.org/neural_structured_learning
 
+Neural Network
+
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
+
 Convolutional Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
