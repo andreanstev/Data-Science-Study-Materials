@@ -75,6 +75,8 @@ https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and
 
 https://analyticsindiamag.com/hands-on-guide-to-implement-batch-normalization-in-deep-learning-models/
 
+https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338#b93c
+
 Convolutional Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
