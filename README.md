@@ -37,6 +37,8 @@ https://www.kaggle.com/learn/intermediate-machine-learning
 
 https://www.kaggle.com/learn/intro-to-deep-learning
 
+https://ai.google/responsibilities/responsible-ai-practices/
+
 ### Data Preparations
 Data Cleaning
 
