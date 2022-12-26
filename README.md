@@ -85,11 +85,17 @@ https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-n
 
 https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9
 
-Sequential  Network
+Recurrent  Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 
+LSTM
+
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras/
+
+https://machinelearningmastery.com/stacked-long-short-term-memory-networks/
 
 ### Model Evaluation
 https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/
