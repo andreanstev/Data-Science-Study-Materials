@@ -1,4 +1,10 @@
 # Data Science Study Materials
+List below is a blog, article, tutorial, or course that help me on my self-study. 
+
+ALERT: 
+
+- some of them maybe not a beginner-friendly, 
+- or maybe outdated
 
 ## Data Science
 ### Methodologies
@@ -35,8 +41,6 @@ https://www.kaggle.com/learn/intro-to-machine-learning
 
 https://www.kaggle.com/learn/intermediate-machine-learning
 
-https://www.kaggle.com/learn/intro-to-deep-learning
-
 https://ai.google/responsibilities/responsible-ai-practices/
 
 ### Data Preparations
@@ -67,6 +71,21 @@ https://neptune.ai/blog/feature-engineering-tools
 Linear Discriminant Analysis (LDA)
 
 https://sebastianraschka.com/Articles/2014_python_lda.html
+
+### Model Evaluation
+https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/
+
+### Ensemble Learning
+https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/
+
+https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349
+
+### Time Series
+https://www.kaggle.com/learn/time-series
+
+## Deep Learning
+### Fundamental
+https://www.kaggle.com/learn/intro-to-deep-learning
 
 ### Model Architecture
 https://www.tensorflow.org/neural_structured_learning
@@ -99,15 +118,16 @@ https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-
 
 https://machinelearningmastery.com/stacked-long-short-term-memory-networks/
 
+### Optimization
+
+https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1
+
+### Activation Functions
+https://mlfromscratch.com/activation-functions-explained/
+
 ### Model Evaluation
-https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/
 
 https://machinelearningmastery.com/evaluate-skill-deep-learning-models/
-
-### Ensemble Learning
-https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/
-
-https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349
 
 ### Computer Vision
 https://www.kaggle.com/learn/computer-vision
@@ -117,11 +137,6 @@ Object Detection
 https://viso.ai/deep-learning/yolov7-guide/
 
 https://towardsdatascience.com/neural-networks-intuitions-3-focal-loss-for-dense-object-detection-paper-explanation-61bc0205114e
-
-### Time Series
-https://www.kaggle.com/learn/time-series
-
-https://shivapriya-katta.medium.com/time-series-forecasting-using-conv1d-lstm-multiple-timesteps-into-future-acc684dcaaa
 
 ### NLP
 Pre-training
@@ -134,6 +149,10 @@ https://developers.google.com/machine-learning/guides/text-classification/
 tensorflow-text
 
 https://www.tensorflow.org/text/guide/tf_text_intro
+
+### Time Series
+
+https://shivapriya-katta.medium.com/time-series-forecasting-using-conv1d-lstm-multiple-timesteps-into-future-acc684dcaaa
 
 ### Video
 Video Classification with TensorFlow
@@ -157,9 +176,6 @@ Replay Memory
 https://jacobbuckman.com/2021-02-13-how-to-think-about-replay-memory
 
 https://kowshikchilamkurthy.medium.com/off-policy-vs-on-policy-vs-offline-reinforcement-learning-demystified-f7f87e275b48
-
-### Activation Functions
-https://mlfromscratch.com/activation-functions-explained/
 
 ### ML Pipeline
 tensorflow-data
@@ -218,6 +234,25 @@ https://www.edureka.co/blog/5-reasons-when-to-use-and-not-to-use-hadoop/
 https://www.projectpro.io/article/hadoop-ecosystem-components-and-its-architecture/114
 
 ### Spark
+https://sparkbyexamples.com/spark/spark-submit-command/
+
+https://spark.apache.org/docs/latest/configuration.html
+
+https://luminousmen.com/post/spark-tips-partition-tuning
+
+PySpark
+
+https://spark.apache.org/docs/2.3.0/api/python/pyspark.html
+
+Spark SQL
+
+https://spark.apache.org/docs/2.3.0/api/sql/
+
+Performance Tuning
+
+https://spark.apache.org/docs/latest/sql-performance-tuning.html
+
+https://www.syntelli.com/eight-performance-optimization-techniques-using-spark
 
 ## GCP
 ### Fundamental
