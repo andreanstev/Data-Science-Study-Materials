@@ -79,6 +79,8 @@ https://analyticsindiamag.com/hands-on-guide-to-implement-batch-normalization-in
 
 https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338#b93c
 
+https://www.analyticsvidhya.com/blog/2021/03/introduction-to-batch-normalization/
+
 Convolutional Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
