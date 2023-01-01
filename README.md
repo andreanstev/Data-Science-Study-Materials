@@ -62,6 +62,10 @@ Outliers
 
 https://humansofdata.atlan.com/2018/03/when-delete-outliers-dataset/
 
+Optimization
+
+https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-learning-part-1-36f28b0c044d
+
 ### Feature Engineering
 https://www.kaggle.com/learn/feature-engineering
 
