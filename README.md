@@ -170,6 +170,10 @@ Autoencoder
 
 https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras/
 
+GAN
+
+https://developers.google.com/machine-learning/gan
+
 ### Reinforcement Learning
 TF Agents
 
