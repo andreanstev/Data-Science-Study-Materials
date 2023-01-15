@@ -185,6 +185,10 @@ https://jacobbuckman.com/2021-02-13-how-to-think-about-replay-memory
 
 https://kowshikchilamkurthy.medium.com/off-policy-vs-on-policy-vs-offline-reinforcement-learning-demystified-f7f87e275b48
 
+Genetic Algorithm
+
+https://www.uber.com/en-ID/blog/deep-neuroevolution/
+
 ### ML Pipeline
 tensorflow-data
 
