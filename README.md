@@ -126,6 +126,8 @@ https://machinelearningmastery.com/stacked-long-short-term-memory-networks/
 
 https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1
 
+https://neptune.ai/blog/understanding-gradient-clipping-and-how-it-can-fix-exploding-gradients-problem
+
 ### Activation Functions
 https://mlfromscratch.com/activation-functions-explained/
 
