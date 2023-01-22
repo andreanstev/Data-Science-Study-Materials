@@ -100,12 +100,6 @@ Neural Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
 
-https://analyticsindiamag.com/hands-on-guide-to-implement-batch-normalization-in-deep-learning-models/
-
-https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338#b93c
-
-https://www.analyticsvidhya.com/blog/2021/03/introduction-to-batch-normalization/
-
 Convolutional Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
@@ -129,6 +123,16 @@ https://machinelearningmastery.com/stacked-long-short-term-memory-networks/
 https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1
 
 https://neptune.ai/blog/understanding-gradient-clipping-and-how-it-can-fix-exploding-gradients-problem
+
+Normalization
+
+https://analyticsindiamag.com/hands-on-guide-to-implement-batch-normalization-in-deep-learning-models/
+
+https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338#b93c
+
+https://www.analyticsvidhya.com/blog/2021/03/introduction-to-batch-normalization/
+
+https://towardsdatascience.com/different-normalization-layers-in-deep-learning-1a7214ff71d6
 
 ### Activation Functions
 https://mlfromscratch.com/activation-functions-explained/
