@@ -71,6 +71,8 @@ https://www.kaggle.com/learn/feature-engineering
 
 https://neptune.ai/blog/feature-engineering-tools
 
+https://towardsdatascience.com/deep-feature-synthesis-vs-genetic-feature-generation-6ba4d05a6ca5
+
 ### Dimensionality Reduction
 Linear Discriminant Analysis (LDA)
 
