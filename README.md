@@ -207,6 +207,8 @@ https://neptune.ai/blog/mlops
 
 https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 
+https://chicagodatascience.github.io/MLOps/
+
 Metadata Store
 
 https://neptune.ai/blog/ml-metadata-store
