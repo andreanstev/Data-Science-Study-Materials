@@ -183,6 +183,10 @@ GAN
 https://developers.google.com/machine-learning/gan
 
 ### Reinforcement Learning
+https://lilianweng.github.io/posts/2018-02-19-rl-overview/
+
+https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-markov-decision-process/
+
 TF Agents
 
 https://www.tensorflow.org/agents
