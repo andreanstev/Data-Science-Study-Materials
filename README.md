@@ -66,6 +66,8 @@ Optimization
 
 https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-learning-part-1-36f28b0c044d
 
+https://pub.towardsai.net/zero-shot-one-shot-few-shot-learning-c3a0df9d4b27
+
 ### Feature Engineering
 https://www.kaggle.com/learn/feature-engineering
 
