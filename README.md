@@ -146,6 +146,9 @@ https://machinelearningmastery.com/evaluate-skill-deep-learning-models/
 ### Computer Vision
 https://www.kaggle.com/learn/computer-vision
 
+Image Annotation
+https://www.edge-ai-vision.com/2022/04/exploring-data-labeling-and-the-6-different-types-of-image-annotation/
+
 Object Detection
 
 https://viso.ai/deep-learning/yolov7-guide/
