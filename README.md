@@ -104,6 +104,8 @@ https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and
 
 Convolutional Network
 
+https://www.tensorflow.org/tutorials/images/cnn
+
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
 
 https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9
