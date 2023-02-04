@@ -287,6 +287,10 @@ https://spark.apache.org/docs/latest/sql-performance-tuning.html
 
 https://www.syntelli.com/eight-performance-optimization-techniques-using-spark
 
+RPC
+
+https://www.waitingforcode.com/apache-spark/rpc-apache-spark/read
+
 ## GCP
 ### Fundamental
 Cloud Digital Leader
