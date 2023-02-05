@@ -95,6 +95,8 @@ https://www.kaggle.com/learn/time-series
 ### Fundamental
 https://www.kaggle.com/learn/intro-to-deep-learning
 
+https://d2l.ai/index.html
+
 ### Model Architecture
 https://www.tensorflow.org/neural_structured_learning
 
