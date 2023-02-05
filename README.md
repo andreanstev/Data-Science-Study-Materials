@@ -263,6 +263,9 @@ https://jovian.ai/learn/data-structures-and-algorithms-in-python
 ## Data Engineering
 https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#
 
+### Data Warehouse
+https://www.javatpoint.com/data-warehouse
+
 ### Hadoop
 https://www.edureka.co/blog/5-reasons-when-to-use-and-not-to-use-hadoop/
 
