@@ -124,6 +124,10 @@ https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-
 
 https://machinelearningmastery.com/stacked-long-short-term-memory-networks/
 
+Transformer 
+
+https://theaisummer.com/positional-embeddings/
+
 ### Optimization
 
 https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1
