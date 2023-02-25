@@ -163,6 +163,10 @@ https://viso.ai/deep-learning/yolov7-guide/
 
 https://towardsdatascience.com/neural-networks-intuitions-3-focal-loss-for-dense-object-detection-paper-explanation-61bc0205114e
 
+https://learnopencv.com/intersection-over-union-iou-in-object-detection-and-segmentation/
+
+https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/
+
 ### NLP
 Pre-training
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
