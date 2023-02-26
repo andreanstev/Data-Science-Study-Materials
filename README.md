@@ -128,9 +128,11 @@ https://machinelearningmastery.com/stacked-long-short-term-memory-networks/
 
 Transformer 
 
+https://theaisummer.com/transformer/
+
 https://theaisummer.com/positional-embeddings/
 
-https://theaisummer.com/transformer/
+https://theaisummer.com/einsum-attention/
 
 ### Optimization
 
