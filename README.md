@@ -112,6 +112,8 @@ https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-n
 
 https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9
 
+https://theaisummer.com/receptive-field/
+
 Recurrent  Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
@@ -127,6 +129,8 @@ https://machinelearningmastery.com/stacked-long-short-term-memory-networks/
 Transformer 
 
 https://theaisummer.com/positional-embeddings/
+
+https://theaisummer.com/transformer/
 
 ### Optimization
 
