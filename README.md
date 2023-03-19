@@ -174,6 +174,9 @@ https://learnopencv.com/intersection-over-union-iou-in-object-detection-and-segm
 https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/
 
 ### NLP
+Language model
+https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
+
 Pre-training
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 
