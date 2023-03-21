@@ -7,6 +7,10 @@ ALERT:
 - or maybe outdated
 
 ## Data Science
+https://online.hbs.edu/blog/post/data-science-skills
+
+https://online.hbs.edu/blog/post/data-life-cycle
+
 ### Methodologies
 https://towardsdatascience.com/data-science-methodology-101-ce9f0d660336
 
