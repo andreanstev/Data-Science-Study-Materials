@@ -177,6 +177,12 @@ https://learnopencv.com/intersection-over-union-iou-in-object-detection-and-segm
 
 https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/
 
+OCR
+
+https://www.docsumo.com/blog/ocr-accuracy
+
+https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html
+
 ### NLP
 Language model
 https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
