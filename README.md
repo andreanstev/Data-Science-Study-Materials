@@ -25,6 +25,9 @@ https://www.kaggle.com/learn/geospatial-analysis
 ### Data Ethics
 https://ethics.fast.ai/
 
+### Use Case
+https://tdan.com/data-science-for-saas-companies/30328
+
 ## Pandas
 ### Fundamental
 https://www.kaggle.com/learn/pandas
