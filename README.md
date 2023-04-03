@@ -186,6 +186,12 @@ https://www.docsumo.com/blog/ocr-accuracy
 
 https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html
 
+Image Enhancement
+
+https://keras.io/examples/vision/edsr/
+
+https://github.com/kunal-visoulia/Image-Restoration-using-SRCNN
+
 ### NLP
 Language model
 https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
