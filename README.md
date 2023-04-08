@@ -65,6 +65,8 @@ https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-sm
 
 https://towardsdatascience.com/imbalanced-classification-in-python-smote-enn-method-db5db06b8d50
 
+https://towardsdatascience.com/heres-what-i-ve-learnt-about-sklearn-resample-ab735ae1abc4
+
 Outliers
 
 https://humansofdata.atlan.com/2018/03/when-delete-outliers-dataset/
