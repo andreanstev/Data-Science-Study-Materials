@@ -92,6 +92,8 @@ https://sebastianraschka.com/Articles/2014_python_lda.html
 ### Model Evaluation
 https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/
 
+https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+
 ### Ensemble Learning
 https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/
 
