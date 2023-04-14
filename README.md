@@ -278,6 +278,10 @@ https://www.tensorflow.org/tfx/guide/mlmd
 ### Keras/Tensorflow
 https://www.tensorflow.org/guide/basics
 
+https://www.tensorflow.org/resources/learn-ml
+
+https://www.tensorflow.org/hub/tutorials
+
 https://keras.io/guides/functional_api/
 
 https://www.tensorflow.org/api_docs/python/tf/keras/initializers
