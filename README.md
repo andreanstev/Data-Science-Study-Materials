@@ -280,6 +280,8 @@ https://www.tensorflow.org/guide/basics
 
 https://www.tensorflow.org/tutorials
 
+https://keras.io/guides/
+
 https://www.tensorflow.org/resources/learn-ml
 
 https://www.tensorflow.org/hub/tutorials
