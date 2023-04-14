@@ -80,6 +80,8 @@ https://pub.towardsai.net/zero-shot-one-shot-few-shot-learning-c3a0df9d4b27
 ### Feature Engineering
 https://www.kaggle.com/learn/feature-engineering
 
+https://www.analyticsvidhya.com/blog/2021/03/step-by-step-process-of-feature-engineering-for-machine-learning-algorithms-in-data-science/
+
 https://neptune.ai/blog/feature-engineering-tools
 
 https://towardsdatascience.com/deep-feature-synthesis-vs-genetic-feature-generation-6ba4d05a6ca5
