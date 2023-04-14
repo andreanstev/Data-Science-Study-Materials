@@ -278,6 +278,8 @@ https://www.tensorflow.org/tfx/guide/mlmd
 ### Keras/Tensorflow
 https://www.tensorflow.org/guide/basics
 
+https://www.tensorflow.org/tutorials
+
 https://www.tensorflow.org/resources/learn-ml
 
 https://www.tensorflow.org/hub/tutorials
