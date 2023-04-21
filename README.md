@@ -127,6 +127,8 @@ https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural
 
 https://theaisummer.com/receptive-field/
 
+https://www.baeldung.com/cs/cnn-receptive-field-size
+
 Recurrent  Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
