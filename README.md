@@ -129,6 +129,10 @@ https://theaisummer.com/receptive-field/
 
 https://www.baeldung.com/cs/cnn-receptive-field-size
 
+https://eli.thegreenplace.net/2018/depthwise-separable-convolutions-for-machine-learning/
+
+https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25
+
 Recurrent  Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
