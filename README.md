@@ -77,6 +77,8 @@ https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-l
 
 https://pub.towardsai.net/zero-shot-one-shot-few-shot-learning-c3a0df9d4b27
 
+https://machinelearningmastery.com/no-free-lunch-theorem-for-machine-learning/
+
 ### Feature Engineering
 https://www.kaggle.com/learn/feature-engineering
 
