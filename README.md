@@ -106,6 +106,9 @@ https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349
 ### Time Series
 https://www.kaggle.com/learn/time-series
 
+### Anomaly Detection
+https://towardsdatascience.com/anomaly-fraud-detection-a-quick-overview-28641ec49ec1
+
 ## Deep Learning
 ### Fundamental
 https://www.kaggle.com/learn/intro-to-deep-learning
