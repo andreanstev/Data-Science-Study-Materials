@@ -109,6 +109,9 @@ https://www.kaggle.com/learn/time-series
 ### Anomaly Detection
 https://towardsdatascience.com/anomaly-fraud-detection-a-quick-overview-28641ec49ec1
 
+### Natural Language Processing
+https://towardsdatascience.com/sentiment-analysis-introduction-to-naive-bayes-algorithm-96831d77ac91
+
 ## Deep Learning
 ### Fundamental
 https://www.kaggle.com/learn/intro-to-deep-learning
@@ -212,7 +215,7 @@ https://keras.io/examples/vision/edsr/
 
 https://github.com/kunal-visoulia/Image-Restoration-using-SRCNN
 
-### NLP
+### Natural Language Processing
 Language model
 https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
 
