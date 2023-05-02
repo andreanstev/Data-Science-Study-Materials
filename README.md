@@ -36,8 +36,6 @@ Pandas vs SQL
 
 https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html
 
-https://www.kaggle.com/learn/pandas
-
 ## Machine Learning
 ### Fundamental
 https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
