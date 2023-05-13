@@ -345,6 +345,8 @@ https://spark.apache.org/docs/latest/configuration.html
 
 https://luminousmen.com/post/spark-tips-partition-tuning
 
+https://medium.com/mercedes-benz-techinnovation-blog/increasing-apache-spark-read-performance-for-jdbc-connections-a028115e20cd
+
 PySpark
 
 https://spark.apache.org/docs/2.3.0/api/python/pyspark.html
