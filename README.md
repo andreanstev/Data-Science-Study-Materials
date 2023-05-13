@@ -345,8 +345,6 @@ https://spark.apache.org/docs/latest/configuration.html
 
 https://luminousmen.com/post/spark-tips-partition-tuning
 
-https://medium.com/mercedes-benz-techinnovation-blog/increasing-apache-spark-read-performance-for-jdbc-connections-a028115e20cd
-
 PySpark
 
 https://spark.apache.org/docs/2.3.0/api/python/pyspark.html
@@ -366,6 +364,10 @@ https://www.syntelli.com/eight-performance-optimization-techniques-using-spark
 RPC
 
 https://www.waitingforcode.com/apache-spark/rpc-apache-spark/read
+
+Optimization
+
+https://medium.com/mercedes-benz-techinnovation-blog/increasing-apache-spark-read-performance-for-jdbc-connections-a028115e20cd
 
 ## GCP
 ### Fundamental
