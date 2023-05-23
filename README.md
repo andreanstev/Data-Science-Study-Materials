@@ -98,6 +98,9 @@ https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
 
 https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f
 
+### Model Interpretability
+https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/
+
 ### Ensemble Learning
 https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/
 
