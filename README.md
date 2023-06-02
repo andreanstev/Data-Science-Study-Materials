@@ -220,9 +220,13 @@ https://github.com/kunal-visoulia/Image-Restoration-using-SRCNN
 
 ### Natural Language Processing
 Language model
+
 https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
 
+https://webz.io/blog/machine-learning/optimize-llm-data-preprocessing-with-structured-historical-web-data/
+
 Pre-training
+
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 
 Text Classification
