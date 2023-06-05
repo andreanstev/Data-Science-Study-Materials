@@ -225,6 +225,8 @@ https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5f
 
 https://webz.io/blog/machine-learning/optimize-llm-data-preprocessing-with-structured-historical-web-data/
 
+https://huggingface.co/docs/transformers/perplexity
+
 Pre-training
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
