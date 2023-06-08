@@ -326,6 +326,8 @@ https://towardsdatascience.com/bootstrapping-statistics-what-it-is-and-why-its-u
 
 https://www.lancaster.ac.uk/stor-i-student-sites/jack-trainer/bootstrapping-in-statistics/
 
+https://statisticsbyjim.com/regression/proxy-variables/
+
 ## Python Programming
 ### Basic
 https://www.kaggle.com/learn/python
