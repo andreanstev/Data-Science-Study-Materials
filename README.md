@@ -374,6 +374,8 @@ https://spark.apache.org/docs/latest/sql-performance-tuning.html
 
 https://www.syntelli.com/eight-performance-optimization-techniques-using-spark
 
+https://umbertogriffo.gitbook.io/apache-spark-best-practices-and-tuning/
+
 Optimization
 
 https://medium.com/mercedes-benz-techinnovation-blog/increasing-apache-spark-read-performance-for-jdbc-connections-a028115e20cd
