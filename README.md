@@ -49,6 +49,10 @@ https://www.kaggle.com/learn/intermediate-machine-learning
 https://ai.google/responsibilities/responsible-ai-practices/
 
 ### Data Preparations
+Scaling
+
+https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/
+
 Data Cleaning
 
 https://www.kaggle.com/learn/data-cleaning
