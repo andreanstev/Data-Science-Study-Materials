@@ -231,6 +231,8 @@ https://webz.io/blog/machine-learning/optimize-llm-data-preprocessing-with-struc
 
 https://huggingface.co/docs/transformers/perplexity
 
+https://wandb.ai/wandb_gen/llm-data-processing/reports/Processing-Data-for-Large-Language-Models--VmlldzozMDg4MTM2
+
 Pre-training
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
