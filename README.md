@@ -233,6 +233,8 @@ https://huggingface.co/docs/transformers/perplexity
 
 https://wandb.ai/wandb_gen/llm-data-processing/reports/Processing-Data-for-Large-Language-Models--VmlldzozMDg4MTM2
 
+https://andrewmayneblog.wordpress.com/2021/04/18/the-gpt-3-zero-shot-approach/
+
 Pre-training
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
