@@ -351,6 +351,13 @@ https://jovian.ai/learn/data-structures-and-algorithms-in-python
 ## Data Engineering
 https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#
 
+### Data Format
+https://pythonspeed.com/articles/best-file-format-for-pandas/
+
+https://towardsdatascience.com/the-best-format-to-save-pandas-data-414dca023e0d
+
+https://www.benfrederickson.com/dont-pickle-your-data/
+
 ### Data Warehouse
 https://www.javatpoint.com/data-warehouse
 
