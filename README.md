@@ -239,6 +239,8 @@ https://andrewmayneblog.wordpress.com/2021/04/18/the-gpt-3-zero-shot-approach/
 
 http://www.cleverhans.io/2020/04/06/stealing-bert.html
 
+https://medium.com/@russkohn/mastering-ai-token-limits-and-memory-ce920630349a
+
 Pre-training
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
