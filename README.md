@@ -241,6 +241,8 @@ http://www.cleverhans.io/2020/04/06/stealing-bert.html
 
 https://medium.com/@russkohn/mastering-ai-token-limits-and-memory-ce920630349a
 
+https://huyenchip.com/2023/04/11/llm-engineering.html
+
 Pre-training
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
