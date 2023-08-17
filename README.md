@@ -225,6 +225,11 @@ https://keras.io/examples/vision/edsr/
 https://github.com/kunal-visoulia/Image-Restoration-using-SRCNN
 
 ### Natural Language Processing
+
+Bias in NLP
+
+https://medium.com/sentropy/token-bias-in-subword-based-hate-speech-classifiers-ce8c23818c51
+
 Language model
 
 https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
