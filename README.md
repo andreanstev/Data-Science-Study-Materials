@@ -383,6 +383,8 @@ https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/index.html
 
 https://airflow.apache.org/docs/apache-airflow/stable/best-practices.html
 
+https://stackabuse.com/handling-task-failures-in-airflow-a-practical-guide/
+
 ### Hadoop
 https://www.edureka.co/blog/5-reasons-when-to-use-and-not-to-use-hadoop/
 
