@@ -28,8 +28,8 @@ https://ethics.fast.ai/
 ### Use Case
 https://tdan.com/data-science-for-saas-companies/30328
 
-## Pandas
-### Fundamental
+## Data Analysis
+### Pandas
 https://www.kaggle.com/learn/pandas
 
 Pandas vs SQL
@@ -37,6 +37,10 @@ Pandas vs SQL
 https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html
 
 https://hackernoon.com/why-are-we-teaching-pandas-instead-of-sql
+
+Optimization
+
+https://saturncloud.io/blog/how-to-process-large-pandas-dataframes-in-parallel/
 
 ## Machine Learning
 ### Fundamental
