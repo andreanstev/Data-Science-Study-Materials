@@ -375,6 +375,9 @@ https://towardsdatascience.com/the-best-format-to-save-pandas-data-414dca023e0d
 
 https://www.benfrederickson.com/dont-pickle-your-data/
 
+### Databases
+https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
+
 ### Data Warehouse
 https://www.javatpoint.com/data-warehouse
 
