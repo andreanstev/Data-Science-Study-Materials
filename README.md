@@ -42,6 +42,9 @@ Optimization
 
 https://saturncloud.io/blog/how-to-process-large-pandas-dataframes-in-parallel/
 
+### Behavioral Analysis
+https://clevertap.com/blog/cohort-analysis/
+
 ## Machine Learning
 ### Fundamental
 https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
