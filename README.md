@@ -345,7 +345,7 @@ https://keras.io/guides/functional_api/
 
 https://www.tensorflow.org/api_docs/python/tf/keras/initializers
 
-## Statistics
+## Statistics & Probability
 https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7
 
 https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271
