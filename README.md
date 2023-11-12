@@ -17,6 +17,13 @@ https://towardsdatascience.com/data-science-methodology-101-ce9f0d660336
 ### Big Data
 https://medium.com/analytics-vidhya/the-5-vs-of-big-data-2758bfcc51d
 
+
+### Data Preprocessing
+
+https://www.kaggle.com/learn/data-cleaning
+
+https://www.simplilearn.com/what-is-data-scrubbing-article
+
 ### Data Visualization
 https://www.kaggle.com/learn/data-visualization
 
@@ -61,10 +68,6 @@ https://ai.google/responsibilities/responsible-ai-practices/
 Scaling
 
 https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/
-
-Data Cleaning
-
-https://www.kaggle.com/learn/data-cleaning
 
 Imbalanced Data
 
