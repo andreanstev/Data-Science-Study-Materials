@@ -64,6 +64,9 @@ https://www.kaggle.com/learn/intermediate-machine-learning
 
 https://ai.google/responsibilities/responsible-ai-practices/
 
+### Lifecycle
+https://mlops.community/scaling-ml-model-development-with-mlflow/
+
 ### Data Preparations
 Scaling
 
