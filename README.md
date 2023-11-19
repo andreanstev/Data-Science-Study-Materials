@@ -390,6 +390,12 @@ https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 ### Data Warehouse
 https://www.javatpoint.com/data-warehouse
 
+https://www.geeksforgeeks.org/denormalization-in-databases/
+
+https://datawarehouseinfo.com/normalization-and-denormalization/
+
+https://www.guru99.com/dimensional-model-data-warehouse.html
+
 ### Airflow
 https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/index.html
 
