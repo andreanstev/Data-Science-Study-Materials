@@ -132,7 +132,12 @@ https://www.kaggle.com/learn/time-series
 https://towardsdatascience.com/anomaly-fraud-detection-a-quick-overview-28641ec49ec1
 
 ### Natural Language Processing
+Sentiment Analysis
 https://towardsdatascience.com/sentiment-analysis-introduction-to-naive-bayes-algorithm-96831d77ac91
+
+Topic Modeling
+
+https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2
 
 ## Deep Learning
 ### Fundamental
