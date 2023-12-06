@@ -136,6 +136,8 @@ Sentiment Analysis
 
 https://towardsdatascience.com/sentiment-analysis-introduction-to-naive-bayes-algorithm-96831d77ac91
 
+https://www.toptal.com/deep-learning/4-sentiment-analysis-accuracy-traps
+
 Topic Modeling
 
 https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2
