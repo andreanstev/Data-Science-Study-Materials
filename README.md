@@ -385,6 +385,9 @@ https://jovian.ai/learn/data-structures-and-algorithms-in-python
 ## Data Engineering
 https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#
 
+### Data Pipeline
+https://rivery.io/blog/etl-vs-elt/
+
 ### Data Format
 https://pythonspeed.com/articles/best-file-format-for-pandas/
 
