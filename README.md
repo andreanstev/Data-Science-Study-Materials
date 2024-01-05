@@ -207,6 +207,10 @@ https://www.analyticsvidhya.com/blog/2021/03/introduction-to-batch-normalization
 
 https://towardsdatascience.com/different-normalization-layers-in-deep-learning-1a7214ff71d6
 
+Model Size Reduction
+
+https://www.tensorops.ai/post/what-are-quantized-llms
+
 ### Activation Functions
 https://mlfromscratch.com/activation-functions-explained/
 
