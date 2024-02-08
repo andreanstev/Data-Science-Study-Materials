@@ -460,6 +460,11 @@ RPC
 
 https://www.waitingforcode.com/apache-spark/rpc-apache-spark/read
 
+### Elasticsearch
+https://opster.com/guides/elasticsearch/best-practices/elasticsearch-indexing-performance/
+
+https://opster.com/guides/elasticsearch/operations/elasticsearch-max-num-segments/
+
 ## GCP
 ### Fundamental
 Cloud Digital Leader
