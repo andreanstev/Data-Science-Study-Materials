@@ -211,6 +211,8 @@ Model Size Reduction
 
 https://www.tensorops.ai/post/what-are-quantized-llms
 
+https://huggingface.co/docs/transformers/main/en/quantization
+
 ### Activation Functions
 https://mlfromscratch.com/activation-functions-explained/
 
