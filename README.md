@@ -233,6 +233,8 @@ Object Detection
 
 https://viso.ai/deep-learning/yolov7-guide/
 
+https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11
+
 https://towardsdatascience.com/neural-networks-intuitions-3-focal-loss-for-dense-object-detection-paper-explanation-61bc0205114e
 
 https://learnopencv.com/intersection-over-union-iou-in-object-detection-and-segmentation/
