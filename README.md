@@ -408,6 +408,8 @@ https://www.benfrederickson.com/dont-pickle-your-data/
 ### Databases
 https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 
+https://medium.com/@askintamanli/fastest-methods-to-bulk-insert-a-pandas-dataframe-into-postgresql-2aa2ab6d2b24
+
 ### Data Warehouse
 https://www.javatpoint.com/data-warehouse
 
