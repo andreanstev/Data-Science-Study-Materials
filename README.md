@@ -330,6 +330,10 @@ Genetic Algorithm
 
 https://www.uber.com/en-ID/blog/deep-neuroevolution/
 
+Imitation Learning
+
+https://smartlabai.medium.com/a-brief-overview-of-imitation-learning-8a8a75c44a9c
+
 ### ML Pipeline
 tensorflow-data
 
