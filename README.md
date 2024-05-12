@@ -125,6 +125,9 @@ https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/
 
 https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349
 
+### Decision Tree
+https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+
 ### Time Series
 https://www.kaggle.com/learn/time-series
 
