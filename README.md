@@ -199,6 +199,10 @@ https://theaisummer.com/positional-embeddings/
 
 https://theaisummer.com/einsum-attention/
 
+KAN
+
+https://www.dailydoseofds.com/a-beginner-friendly-introduction-to-kolmogorov-arnold-networks-kan/
+
 ### Optimization
 
 https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
