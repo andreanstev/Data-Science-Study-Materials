@@ -163,6 +163,8 @@ Neural Network
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
 
+https://towardsdatascience.com/neural-networks-and-the-universal-approximation-theorem-8a389a33d30a
+
 Convolutional Network
 
 https://www.tensorflow.org/tutorials/images/cnn
