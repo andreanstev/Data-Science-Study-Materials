@@ -117,6 +117,8 @@ https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
 
 https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f
 
+https://medium.com/@nirajan.acharya666/choosing-between-mean-squared-error-mse-and-mean-absolute-error-mae-in-regression-a-deep-dive-c16b4eeee603
+
 ### Model Interpretability
 https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/
 
