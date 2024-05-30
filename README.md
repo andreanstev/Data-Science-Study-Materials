@@ -279,6 +279,10 @@ Bias in NLP
 
 https://medium.com/sentropy/token-bias-in-subword-based-hate-speech-classifiers-ce8c23818c51
 
+Evaluation
+
+https://arize.com/blog-course/generative-ai-metrics-bleu-score/
+
 Language model
 
 https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
