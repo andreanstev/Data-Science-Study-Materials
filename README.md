@@ -148,6 +148,10 @@ https://towardsdatascience.com/sentiment-analysis-introduction-to-naive-bayes-al
 
 https://www.toptal.com/deep-learning/4-sentiment-analysis-accuracy-traps
 
+Text Vectorization
+
+https://towardsdatascience.com/nlp-101-word2vec-skip-gram-and-cbow-93512ee24314
+
 Topic Modeling
 
 https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2
