@@ -142,6 +142,10 @@ https://www.kaggle.com/learn/time-series
 https://towardsdatascience.com/anomaly-fraud-detection-a-quick-overview-28641ec49ec1
 
 ### Natural Language Processing
+Text Preprocessing
+
+https://kavita-ganesan.com/text-preprocessing-tutorial/
+
 Sentiment Analysis
 
 https://towardsdatascience.com/sentiment-analysis-introduction-to-naive-bayes-algorithm-96831d77ac91
