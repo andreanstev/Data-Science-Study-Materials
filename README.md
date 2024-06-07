@@ -203,6 +203,8 @@ https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-
 
 https://machinelearningmastery.com/stacked-long-short-term-memory-networks/
 
+https://medium.com/geekculture/10-hyperparameters-to-keep-an-eye-on-for-your-lstm-model-and-other-tips-f0ff5b63fcd4
+
 Transformer 
 
 https://theaisummer.com/transformer/
