@@ -119,6 +119,8 @@ https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly
 
 https://medium.com/@nirajan.acharya666/choosing-between-mean-squared-error-mse-and-mean-absolute-error-mae-in-regression-a-deep-dive-c16b4eeee603
 
+https://www.evidentlyai.com/classification-metrics/multi-class-metrics
+
 ### Model Interpretability
 https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/
 
