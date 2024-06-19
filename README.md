@@ -287,6 +287,8 @@ https://github.com/kunal-visoulia/Image-Restoration-using-SRCNN
 
 https://monkeylearn.com/blog/natural-language-processing-challenges/
 
+https://huggingface.co/learn/nlp-course
+
 Bias in NLP
 
 https://medium.com/sentropy/token-bias-in-subword-based-hate-speech-classifiers-ce8c23818c51
