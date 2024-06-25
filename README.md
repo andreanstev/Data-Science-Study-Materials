@@ -148,6 +148,8 @@ Text Preprocessing
 
 https://kavita-ganesan.com/text-preprocessing-tutorial/
 
+https://ruslanmv.com/blog/How-to-handle-imbalanced-text-data-in-Natural-Language-Process
+
 Sentiment Analysis
 
 https://towardsdatascience.com/sentiment-analysis-introduction-to-naive-bayes-algorithm-96831d77ac91
