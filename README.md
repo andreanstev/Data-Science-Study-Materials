@@ -168,6 +168,10 @@ Error Analysis
 
 https://medium.com/@Coursesteach/natural-language-processing-part-24-error-analysis-9cdcf0385fdc
 
+Model Evaluation
+
+https://medium.com/nlplanet/two-minutes-nlp-learn-the-rouge-metric-by-examples-f179cc285499
+
 ## Deep Learning
 ### Fundamental
 https://www.kaggle.com/learn/intro-to-deep-learning
