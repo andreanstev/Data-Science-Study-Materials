@@ -164,6 +164,10 @@ Topic Modeling
 
 https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2
 
+Error Analysis
+
+https://medium.com/@Coursesteach/natural-language-processing-part-24-error-analysis-9cdcf0385fdc
+
 ## Deep Learning
 ### Fundamental
 https://www.kaggle.com/learn/intro-to-deep-learning
