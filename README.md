@@ -144,6 +144,8 @@ https://www.kaggle.com/learn/time-series
 https://towardsdatascience.com/anomaly-fraud-detection-a-quick-overview-28641ec49ec1
 
 ### Natural Language Processing
+https://intellipaat.com/blog/what-is-corpus-in-nlp/
+
 Text Preprocessing
 
 https://kavita-ganesan.com/text-preprocessing-tutorial/
