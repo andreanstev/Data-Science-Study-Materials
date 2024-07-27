@@ -343,6 +343,11 @@ https://www.tensorflow.org/text/guide/tf_text_intro
 
 https://shivapriya-katta.medium.com/time-series-forecasting-using-conv1d-lstm-multiple-timesteps-into-future-acc684dcaaa
 
+### Audio
+Automatic Speech Recognition
+
+https://billtcheng2013.medium.com/hello-world-to-audio-transcribing-with-openai-whisper-d2ba9d355ec9
+
 ### Video
 Video Classification with TensorFlow
 
