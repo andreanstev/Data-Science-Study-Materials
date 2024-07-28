@@ -348,6 +348,8 @@ Automatic Speech Recognition
 
 https://billtcheng2013.medium.com/hello-world-to-audio-transcribing-with-openai-whisper-d2ba9d355ec9
 
+https://blog.ml6.eu/who-spoke-when-choosing-the-right-speaker-diarization-tool-3d7a115c524b
+
 ### Video
 Video Classification with TensorFlow
 
