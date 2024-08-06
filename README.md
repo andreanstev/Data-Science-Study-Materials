@@ -64,6 +64,8 @@ https://www.kaggle.com/learn/intermediate-machine-learning
 
 https://ai.google/responsibilities/responsible-ai-practices/
 
+https://medium.com/@amanatulla1606/fine-tuning-the-model-what-why-and-how-e7fa52bc8ddf
+
 ### Lifecycle
 https://mlops.community/scaling-ml-model-development-with-mlflow/
 
