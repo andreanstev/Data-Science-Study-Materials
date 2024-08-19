@@ -495,6 +495,8 @@ https://www.edureka.co/blog/5-reasons-when-to-use-and-not-to-use-hadoop/
 https://www.projectpro.io/article/hadoop-ecosystem-components-and-its-architecture/114
 
 ### Spark
+https://books.japila.pl/apache-spark-internals/overview/
+
 https://sparkbyexamples.com/spark/spark-submit-command/
 
 https://spark.apache.org/docs/latest/configuration.html
