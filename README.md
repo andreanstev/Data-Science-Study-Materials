@@ -505,6 +505,10 @@ https://luminousmen.com/post/spark-tips-partition-tuning
 
 https://data-flair.training/blogs/apache-spark-lazy-evaluation/
 
+Architecture
+
+https://medium.com/sparkbyexamples/what-are-the-specific-roles-of-spark-driver-and-executor-a17f90c7e7fd
+
 PySpark
 
 https://spark.apache.org/docs/2.3.0/api/python/pyspark.html
