@@ -482,6 +482,8 @@ https://datawarehouseinfo.com/normalization-and-denormalization/
 
 https://www.guru99.com/dimensional-model-data-warehouse.html
 
+https://www.ssp.sh/brain/inmon-vs-kimball/
+
 ### Airflow
 https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/index.html
 
