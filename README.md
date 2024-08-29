@@ -311,6 +311,16 @@ Evaluation
 
 https://arize.com/blog-course/generative-ai-metrics-bleu-score/
 
+Text Classification
+
+https://developers.google.com/machine-learning/guides/text-classification/
+
+tensorflow-text
+
+https://www.tensorflow.org/text/guide/tf_text_intro
+
+### Transformers
+
 Language model
 
 https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
@@ -329,17 +339,11 @@ https://medium.com/@russkohn/mastering-ai-token-limits-and-memory-ce920630349a
 
 https://huyenchip.com/2023/04/11/llm-engineering.html
 
+https://medium.com/@mohammed97ashraf/unleashing-the-potential-of-gemini-pro-with-langchain-a-quick-guide-to-mastering-langchain-and-a7fb99d0e77a
+
 Pre-training
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
-
-Text Classification
-
-https://developers.google.com/machine-learning/guides/text-classification/
-
-tensorflow-text
-
-https://www.tensorflow.org/text/guide/tf_text_intro
 
 ### Time Series
 
