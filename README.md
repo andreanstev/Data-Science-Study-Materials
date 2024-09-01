@@ -588,6 +588,14 @@ https://cloud.google.com/datasets
 
 https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset
 
+HuggingFace
+
+https://huggingface.co/datasets
+
+Others
+
+https://www.gdeltproject.org/data.html
+
 ## Others
 ### regex
 https://regex101.com/
