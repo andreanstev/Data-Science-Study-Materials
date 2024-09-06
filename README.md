@@ -341,6 +341,8 @@ https://huyenchip.com/2023/04/11/llm-engineering.html
 
 https://medium.com/@mohammed97ashraf/unleashing-the-potential-of-gemini-pro-with-langchain-a-quick-guide-to-mastering-langchain-and-a7fb99d0e77a
 
+https://medium.com/@plienhar/llm-inference-series-1-introduction-9c78e56ef49d
+
 Pre-training
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
