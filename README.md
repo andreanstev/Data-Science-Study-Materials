@@ -351,6 +351,10 @@ Fine Tuning
 
 https://medium.com/@rajaravivarman/rag-vs-lora-for-efficient-language-model-tuning-c6f675e710c5
 
+Knowledge Augmentation
+
+https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics
+
 ### Time Series
 
 https://shivapriya-katta.medium.com/time-series-forecasting-using-conv1d-lstm-multiple-timesteps-into-future-acc684dcaaa
