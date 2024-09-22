@@ -355,6 +355,8 @@ Knowledge Augmentation
 
 https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics
 
+https://turingbots.ai/hierarchical-retrieval-augmented-generation-hrag/
+
 ### Time Series
 
 https://shivapriya-katta.medium.com/time-series-forecasting-using-conv1d-lstm-multiple-timesteps-into-future-acc684dcaaa
