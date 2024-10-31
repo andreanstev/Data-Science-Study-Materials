@@ -321,6 +321,8 @@ https://www.tensorflow.org/text/guide/tf_text_intro
 
 ### Transformers
 
+https://medium.com/the-modern-scientist/an-in-depth-look-at-the-transformer-based-models-22e5f5d17b6b
+
 Language model
 
 https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
