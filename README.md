@@ -411,6 +411,11 @@ Imitation Learning
 
 https://smartlabai.medium.com/a-brief-overview-of-imitation-learning-8a8a75c44a9c
 
+### Experimentation
+Multi-Armed Bandit
+
+https://www.optimizely.com/optimization-glossary/multi-armed-bandit/
+
 ### ML Pipeline
 tensorflow-data
 
