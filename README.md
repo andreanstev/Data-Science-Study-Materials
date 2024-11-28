@@ -411,11 +411,6 @@ Imitation Learning
 
 https://smartlabai.medium.com/a-brief-overview-of-imitation-learning-8a8a75c44a9c
 
-### Experimentation
-Multi-Armed Bandit
-
-https://www.optimizely.com/optimization-glossary/multi-armed-bandit/
-
 ### ML Pipeline
 tensorflow-data
 
@@ -465,6 +460,11 @@ https://towardsdatascience.com/bootstrapping-statistics-what-it-is-and-why-its-u
 https://www.lancaster.ac.uk/stor-i-student-sites/jack-trainer/bootstrapping-in-statistics/
 
 https://statisticsbyjim.com/regression/proxy-variables/
+
+### Sequential Analysis
+Multi-Armed Bandit
+
+https://www.optimizely.com/optimization-glossary/multi-armed-bandit/
 
 ## Python Programming
 ### Basic
