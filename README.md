@@ -345,6 +345,8 @@ https://medium.com/@mohammed97ashraf/unleashing-the-potential-of-gemini-pro-with
 
 https://medium.com/@plienhar/llm-inference-series-1-introduction-9c78e56ef49d
 
+https://medium.com/the-modern-scientist/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
+
 Pre-training
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
