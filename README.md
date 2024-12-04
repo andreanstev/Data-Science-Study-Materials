@@ -463,10 +463,12 @@ https://www.lancaster.ac.uk/stor-i-student-sites/jack-trainer/bootstrapping-in-s
 
 https://statisticsbyjim.com/regression/proxy-variables/
 
-### Sequential Analysis
+### Experimentation
 Multi-Armed Bandit
 
 https://www.optimizely.com/optimization-glossary/multi-armed-bandit/
+
+https://amplitude.com/explore/experiment/multi-armed-bandit
 
 ## Python Programming
 ### Basic
