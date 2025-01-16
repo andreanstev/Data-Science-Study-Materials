@@ -463,6 +463,8 @@ https://www.lancaster.ac.uk/stor-i-student-sites/jack-trainer/bootstrapping-in-s
 
 https://statisticsbyjim.com/regression/proxy-variables/
 
+https://lakens.github.io/statistical_inferences/
+
 ### Experimentation
 Multi-Armed Bandit
 
