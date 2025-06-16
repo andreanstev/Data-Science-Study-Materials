@@ -347,6 +347,8 @@ https://medium.com/@plienhar/llm-inference-series-1-introduction-9c78e56ef49d
 
 https://medium.com/the-modern-scientist/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
 
+https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/
+
 Pre-training
 
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
@@ -382,6 +384,7 @@ https://keras.io/examples/vision/video_classification/
 https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5
 
 ### Generative
+
 Autoencoder
 
 https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras/
