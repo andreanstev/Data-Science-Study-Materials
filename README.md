@@ -376,6 +376,8 @@ https://billtcheng2013.medium.com/hello-world-to-audio-transcribing-with-openai-
 
 https://blog.ml6.eu/who-spoke-when-choosing-the-right-speaker-diarization-tool-3d7a115c524b
 
+https://scalastic.io/en/whisper-pyannote-ultimate-speech-transcription/
+
 ### Video
 Video Classification with TensorFlow
 
