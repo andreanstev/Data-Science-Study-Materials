@@ -66,9 +66,6 @@ https://ai.google/responsibilities/responsible-ai-practices/
 
 https://medium.com/@amanatulla1606/fine-tuning-the-model-what-why-and-how-e7fa52bc8ddf
 
-### Lifecycle
-https://mlops.community/scaling-ml-model-development-with-mlflow/
-
 ### Data Preparations
 Scaling
 
@@ -433,6 +430,10 @@ https://neptune.ai/blog/mlops
 https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 
 https://chicagodatascience.github.io/MLOps/
+
+https://mlops.community/scaling-ml-model-development-with-mlflow/
+
+https://medium.com/@gururajhm/from-experimentation-to-production-how-mlflow-can-help-you-to-deploy-your-models-with-confidence-72342dffd8ca
 
 Metadata Store
 
